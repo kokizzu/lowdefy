@@ -3,6 +3,31 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.18.1](https://github.com/lowdefy/lowdefy/compare/v3.18.0...v3.18.1) (2021-06-30)
+
+
+### Bug Fixes
+
+* **engine:** Evaluate action error messages after error. closes [#663](https://github.com/lowdefy/lowdefy/issues/663) ([514fd14](https://github.com/lowdefy/lowdefy/commit/514fd14ce234d19bf2661a55be328e992102b546))
+* **engine:** Remove error.lowdefyMessage. ([9f8590f](https://github.com/lowdefy/lowdefy/commit/9f8590f0d7a18a77a49235c0bc24798120062c66))
+* **engine:** Responses for actions and tests using _actions in messages. ([38cf7ef](https://github.com/lowdefy/lowdefy/commit/38cf7ef35843ad8494fa2a9829b9ddbed33f0ca6))
+* **engine:** Up test covarage in Wait. ([a40ad4f](https://github.com/lowdefy/lowdefy/commit/a40ad4f7246c7ed0584fd3747f7a21e31832af96))
+
+
+
+
+
+# [3.18.0](https://github.com/lowdefy/lowdefy/compare/v3.17.2...v3.18.0) (2021-06-17)
+
+
+### Features
+
+* **engine:** Add wait operator. ([40ead25](https://github.com/lowdefy/lowdefy/commit/40ead255054a731cc70e7bee31c61d2d20ef0caf)), closes [#625](https://github.com/lowdefy/lowdefy/issues/625)
+
+
+
+
+
 ## [3.17.2](https://github.com/lowdefy/lowdefy/compare/v3.17.1...v3.17.2) (2021-06-11)
 
 **Note:** Version bump only for package @lowdefy/engine

@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.0.0-alpha.28](https://github.com/lowdefy/lowdefy/compare/v4.0.0-alpha.27...v4.0.0-alpha.28) (2022-09-12)
+
+
+### Bug Fixes
+
+* **server:** Move viewport setting to the _document. ([4471e49](https://github.com/lowdefy/lowdefy/commit/4471e499cd384491df493c0be6095e27af3a003b))
+* **server:** Set page viewport. ([9c05a6d](https://github.com/lowdefy/lowdefy/commit/9c05a6d8d7cc16c723089c6499005945fc2a5aaa))
+
+
+
+
+
+# [4.0.0-alpha.27](https://github.com/lowdefy/lowdefy/compare/v4.0.0-alpha.26...v4.0.0-alpha.27) (2022-09-08)
+
+
+### Features
+
+* **blocks-qr:** Add QRScanner block. ([5778234](https://github.com/lowdefy/lowdefy/commit/5778234f366a030d055f0e1a604cfa27f47617ac))
+
+
+
+
+
 # [4.0.0-alpha.26](https://github.com/lowdefy/lowdefy/compare/v4.0.0-alpha.25...v4.0.0-alpha.26) (2022-08-25)
 
 

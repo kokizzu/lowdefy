@@ -45,6 +45,7 @@
   },
   "dependencies": {
     "@lowdefy/helpers": "7.3.0",
+    "@lowdefy/node-utils": "7.3.0",
     "axios": "1.20.0"
   },
   "devDependencies": {

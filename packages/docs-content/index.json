@@ -1,5 +1,5 @@
 {
-  "version": "7.2.0",
+  "version": "7.3.0",
   "docs": [
     {
       "slug": "learn/introduction",
@@ -3133,7 +3133,7 @@
       "files": [
         "agents/agent-properties.yaml"
       ],
-      "hash": "d3f70ea19d78c84002dc38195d41ba9c0c0153fb6380936861297cf49728240c"
+      "hash": "5f6778173d5ce47f50b5098ec59859916da99e953ac89d84cecebdaacb7c2304"
     },
     "agents/agent-endpoint-tools": {
       "files": [
@@ -3157,7 +3157,7 @@
       "files": [
         "agents/server-hooks.yaml"
       ],
-      "hash": "8631ab81653d1c6395476e5fe4f042dd437087e2b8498a17e9a216ec253bb6a9"
+      "hash": "9a4b2d0c867bbb31e6b9d2936354a6aa786187b0f33826ff83eca73e0429f20b"
     },
     "agents/agentchat": {
       "files": [
